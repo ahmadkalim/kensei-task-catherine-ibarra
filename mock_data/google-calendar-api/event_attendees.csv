@@ -1,0 +1,5 @@
+event_id,attendee_email,response_status,optional
+evt-ks01,catherine.ibarra@gmail.com,accepted,false
+evt-ks01,luka.maric@adriaticuni.hr,accepted,false
+evt-ks01,josip.horvat.jadran@gmail.com,accepted,false
+evt-ks01,tomo.babic.phd@gmail.com,accepted,false
