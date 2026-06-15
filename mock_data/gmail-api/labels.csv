@@ -1,0 +1,8 @@
+id,name,type,message_list_visibility,label_list_visibility
+INBOX,INBOX,system,show,show
+SENT,SENT,system,show,show
+UNREAD,UNREAD,system,show,show
+STARRED,STARRED,system,show,show
+CATEGORY_PRIMARY,CATEGORY_PRIMARY,system,show,show
+CATEGORY_SOCIAL,CATEGORY_SOCIAL,system,show,show
+CATEGORY_UPDATES,CATEGORY_UPDATES,system,show,show
