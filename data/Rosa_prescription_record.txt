@@ -1,0 +1,22 @@
+Patient: Rosa Ibarra
+DOB: [REDACTED]
+PCP: Dr. Mirna Vuković, Adriatic Health Centre
+
+MEDICATION HISTORY:
+
+Bisoprolol 5mg — 1 tablet daily (blood pressure)
+  Last filled: 2026-09-10 (Ljekarna Split, Rx #RX-2026-4412)
+  Supply: 30 tablets
+  Next refill due: 2026-10-10
+  Refills remaining: 3
+
+Atorvastatin 20mg — 1 tablet daily (cholesterol)
+  Last filled: 2026-09-10 (Ljekarna Split, Rx #RX-2026-4413)
+  Supply: 30 tablets
+  Next refill due: 2026-10-10
+  Refills remaining: 2
+
+NOTES:
+- Both medications can be refilled at the pharmacy counter without a new prescription (refills remaining).
+- Dr. Vuković should be notified if there are any changes in condition.
+- Standard refill window: 3 days before due date.

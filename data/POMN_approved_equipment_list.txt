@@ -1,0 +1,34 @@
+POMN EQUIPMENT INVENTORY — APPROVED PROCUREMENT LIST
+Croatian Science Foundation Grant IP-2024-05-1234
+Last updated: June 2026
+
+================================================================
+Item                    | Model/Spec                    | Qty | Budget (EUR)
+================================================================
+CTD profiler            | Sea-Bird Scientific SBE 19plus |  1  |  2,100
+                        | (item SBE-19P-001)            |     |
+                        | Conductivity, temp, depth,    |     |
+                        | dissolved oxygen (standard)   |     |
+----------------------------------------------------------------
+Underwater camera       | OM System Tough TG-7          |  1  |    600
+----------------------------------------------------------------
+Water sampler (Niskin)  | 5L Niskin bottle, General     |  6  |    180
+                        | Oceanics 101005               |     |
+----------------------------------------------------------------
+Secchi disk             | Standard 20cm black/white     |  2  |     45
+----------------------------------------------------------------
+Dive computer           | Suunto EON Steel              |  1  |    950
+----------------------------------------------------------------
+GPS navigator           | Garmin GPSMAP 86i             |  1  |    500
+----------------------------------------------------------------
+Sediment corer          | Hand-operated, PVC, 6cm dia   |  3  |    120
+----------------------------------------------------------------
+Misc sampling supplies  | Via Airtable consumables list |  -  |    500
+================================================================
+                       TOTAL APPROVED BUDGET:           |     |  4,995
+================================================================
+
+Notes:
+- Equipment substitutions or upgrades require PI approval and grant amendment.
+- Any single item >€350 requires Catherine Ibarra's explicit approval before procurement.
+- Item numbers refer to manufacturer catalog codes. Verify before ordering.
