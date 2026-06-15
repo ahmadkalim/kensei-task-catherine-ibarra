@@ -7,13 +7,11 @@ MEDICATION HISTORY:
 Bisoprolol 5mg — 1 tablet daily (blood pressure)
   Last filled: 2026-09-10 (Ljekarna Split, Rx #RX-2026-4412)
   Supply: 30 tablets
-  Next refill due: 2026-10-10
   Refills remaining: 3
 
 Atorvastatin 20mg — 1 tablet daily (cholesterol)
   Last filled: 2026-09-10 (Ljekarna Split, Rx #RX-2026-4413)
   Supply: 30 tablets
-  Next refill due: 2026-10-10
   Refills remaining: 2
 
 NOTES:
