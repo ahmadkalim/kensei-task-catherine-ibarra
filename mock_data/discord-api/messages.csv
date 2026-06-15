@@ -1,0 +1,6 @@
+id,channel_id,author_id,author_name,content,timestamp,attachments,is_pinned,reactions
+dc-001,ch-marine-sci,usr-ana-juric,Ana Jurić,Has anyone used the new CTD software update? The UI changed completely and I can't find the salinity calibration.,2026-10-06T14:20:00Z,,false,
+dc-002,ch-marine-sci,usr-tomo-babic,Tomo Babić,Not yet — still on the old version. Is it mandatory?,2026-10-06T14:25:00Z,,false,
+dc-003,ch-marine-sci,usr-ante-markic,Ante Markić,We updated last week. The calibration is under Tools > Instrument Setup now instead of the main menu.,2026-10-06T14:30:00Z,,false,
+dc-004,ch-general,usr-nikola-v,nikola_v,Pub quiz this Friday at The St Patrick's — anyone in?,2026-10-07T09:15:00Z,,false,🇧🇪: 3
+dc-005,ch-general,usr-luka-m,TheLukaM,In. Last time was a embarrassment. I've been studying.,2026-10-07T09:20:00Z,,false,
