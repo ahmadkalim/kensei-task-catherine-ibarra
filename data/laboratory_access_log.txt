@@ -1,0 +1,20 @@
+﻿LABORATORY ACCESS LOG — UAC MARINE SCIENCES
+Lab: Wet Lab / Sample Processing — Room 1.04
+Month: October 2026
+
+Date         Name                In              Out             Purpose
+2026-10-01   Luka Maric          09:00           17:30           Sample processing, spring cores
+2026-10-02   Ana Juric           10:00           15:00           Epiphyte slide prep
+2026-10-03   Luka Maric          08:30           16:45           Equipment prep for Kornati
+2026-10-04   Catherine Ibarra    07:00           11:00           Kit packing, sample containers
+2026-10-04   Tomo Babic          07:30           14:00           Battery charging, gear check
+2026-10-05   —                   —               —               FIELD (Kornati survey)
+2026-10-06   —                   —               —               FIELD
+2026-10-07   —                   —               —               FIELD
+2026-10-08   —                   —               —               FIELD (weather permitting)
+2026-10-09   —                   —               —               FIELD
+
+NOTES:
+- Lab door code: 2024 (reset quarterly — next reset December 1).
+- No samples to be left unattended in processing area overnight.
+- Liquid nitrogen top-up due November.

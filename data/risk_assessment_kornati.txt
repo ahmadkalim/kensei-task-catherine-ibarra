@@ -1,0 +1,25 @@
+﻿RISK ASSESSMENT — KORNATI DIVING SURVEY OCT 2026
+Prepared by: Dr. Catherine Ibarra
+Date: September 25, 2026
+
+HAZARDS IDENTIFIED:
+
+1. Weather-related
+   - Bura wind: sudden onset possible Oct-Nov. Wind >25kt = dive abort.
+   - Reduced visibility after storms.
+   - Mitigation: Monitor GFS/OpenWeather forecasts daily. Captain Horvat has final call.
+
+2. Diving-related
+   - Decompression illness: all dives within NDL. Nitrox available for repetitive dives.
+   - Entanglement: no known ghost nets at Kornati sites. Carry dive knife.
+   - Marine life: weever fish, jellyfish (rare in Oct). First aid kit includes antihistamine.
+
+3. Vessel-related
+   - Engine failure: EPIRB onboard. VHF Ch. 16 monitored.
+   - Man overboard: MOB drill conducted Day 1.
+
+4. Equipment-related
+   - CTD failure: backup YSI Pro30 handheld on board.
+   - Camera housing leak: spare O-rings and silicone grease in kit.
+
+All divers have reviewed and signed this assessment.

@@ -1,0 +1,18 @@
+﻿WATER QUALITY THRESHOLDS — POMN MONITORING PARAMETERS
+
+Parameter                    Acceptable Range        Alert Threshold
+Temperature                  14-28 C                >29 C or <12 C
+Salinity                     36.5-38.5 PSU          <36.0 or >39.0
+Dissolved Oxygen             >5.0 mg/L              <4.0 mg/L
+pH                           7.8-8.4                <7.6 or >8.6
+Turbidity                    <5 NTU                 >10 NTU
+Secchi depth                 >8m                    <5m
+Chlorophyll-a                <1.5 ug/L              >3.0 ug/L
+Nitrates                     <0.5 mg/L              >1.0 mg/L
+Phosphates                   <0.1 mg/L              >0.2 mg/L
+
+Notes:
+- CTD measures temp, salinity, DO, depth at 1m intervals.
+- Water samples collected at surface and 1m above seafloor for lab analysis.
+- Any alert-threshold reading must be re-checked within 24 hours.
+- Long-term trends are reported in the annual POMN data package.

@@ -1,0 +1,23 @@
+﻿POMN FIELD DATA PROTOCOLS — STANDARD OPERATING PROCEDURES
+Version 4.2 (March 2026)
+
+SITE SURVEY PROTOCOL:
+1. Arrive at site coordinates. Drop anchor at least 50m up-current of transect start.
+2. Deploy CTD to 1m below surface. Record temperature, salinity, DO, depth at 1m intervals.
+3. Deploy Secchi disk. Record depth of disappearance and reappearance (average = Secchi depth).
+4. Two divers enter water. Lay 50m transect tape along depth contour.
+5. Record shoot density (number of shoots within 0.25m² quadrat) every 5m.
+6. Collect leaf length samples (10 shoots) at 0m, 25m, and 50m.
+7. Collect epiphyte scrape from 3 leaves per quadrat.
+8. Collect sediment sample with hand corer at 25m mark.
+9. Surface. Log data on POMN field sheet. Rinse all equipment with fresh water.
+
+EQUIPMENT DECONTAMINATION:
+- All gear rinsed with fresh water after each site.
+- Wetsuits and dive gear soaked in mild disinfectant solution weekly.
+- CTD rinsed with distilled water, dried, stored in padded case.
+
+EMERGENCY PROCEDURES:
+- Dive accident: surface immediately, administer O2, call Emergency Services (112).
+- Lost diver: initiate search pattern, notify Harbour Master (Split Radio Ch. 16).
+- Equipment failure: abort site, return to vessel, assess, contact Luka for backup.

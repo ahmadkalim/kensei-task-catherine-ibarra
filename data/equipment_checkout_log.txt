@@ -1,0 +1,20 @@
+﻿EQUIPMENT CHECKOUT LOG — POMN KORNATI SURVEY
+October 5-9, 2026
+
+Item                            Checked Out      Checked In      Status
+CTD profiler (SBE 19P-001)      Oct 4 (CI)                                      IN USE
+UW camera (TG-7)                Oct 4 (CI)                                      IN USE
+Niskin bottles (x6)             Oct 4 (CI)                                      IN USE
+Secchi disk (x2)                Oct 4 (CI)                                      IN USE
+Dive computers (x3)             Oct 4 (CI, TB, JH)                              IN USE
+GPS navigator (Garmin)          Oct 4 (CI)                                      IN USE
+Sediment corer (x3)             Oct 4 (CI)                                      IN USE
+Sample containers (box)         Oct 4 (CI)                                      IN USE
+Data sheets (waterproof)        Oct 4 (CI)                                      IN USE
+First aid kit (dive)            Oct 4 (CI)                                      IN USE
+Oxygen kit                      Oct 4 (CI)                                      IN USE
+Backup YSI Pro30 handheld       Oct 4 (CI)                                      IN USE
+
+CI = Catherine Ibarra, TB = Tomo Babic, JH = Captain Horvat
+
+NOTE: All equipment to be checked back in by October 10. Any damage or loss to be reported immediately.

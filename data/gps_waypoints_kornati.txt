@@ -1,0 +1,22 @@
+﻿GPS WAYPOINTS — KORNATI ISLANDS POMN SITES
+Datum: WGS84
+
+Site    Latitude         Longitude         Depth (m)    Substrate
+K-01    43.7842 N        15.3342 E         8-12         Sand/seagrass
+K-02    43.7915 N        15.3418 E         6-10         Seagrass/rock
+K-03    43.8021 N        15.3520 E         10-14        Seagrass/sand
+K-04    43.8105 N        15.3610 E         7-11         Seagrass
+K-05    43.8188 N        15.3705 E         9-13         Seagrass/sand
+K-06    43.8250 N        15.3780 E         5-9          Seagrass
+K-07    43.8342 N        15.3885 E         8-12         Seagrass/rock
+K-08    43.8420 N        15.3950 E         10-14        Seagrass
+K-09    43.8505 N        15.4022 E         6-10         Sand/seagrass
+K-10    43.8588 N        15.4100 E         9-12         Seagrass
+K-11    43.8655 N        15.4185 E         11-15        Seagrass/rock
+K-12    43.8720 N        15.4258 E         7-11         Seagrass
+K-13    43.8802 N        15.4335 E         8-12         Seagrass/sand
+K-14    43.8880 N        15.4410 E         10-14        Seagrass
+
+Notes:
+- All sites marked with subsurface buoy during survey season.
+- Sites K-07 through K-14 are the autumn 2026 targets.

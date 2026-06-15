@@ -1,0 +1,25 @@
+﻿EQUIPMENT SERVICE LOG — POMN FIELD EQUIPMENT
+Updated: September 2026
+
+CTD (Sea-Bird Scientific SBE 19plus, SBE-19P-001)
+  Last service: August 2026 (factory calibration)
+  Next service: August 2027
+  Issues: None noted. DO sensor reading stable.
+  Notes: Manufacturer recommends firmware update available for V2 models only.
+
+Underwater camera (OM System Tough TG-7)
+  Last service: July 2026 (sensor cleaning, seal replacement)
+  Next service: July 2027
+  Issues: New battery ordered (expected delivery October 15)
+
+Niskin bottles (5L, General Oceanics 101005)
+  Last service: June 2026 (O-rings replaced, valves greased)
+  Next service: December 2026
+
+Dive computers (Suunto EON Steel)
+  Last service: May 2026 (battery, pressure test)
+  Next service: May 2027
+
+GPS navigator (Garmin GPSMAP 86i)
+  Last service: August 2026 (software update, chart update)
+  Next service: As needed
