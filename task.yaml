@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, document]
+l1: operations_qa
+l2: grant_compliance__procurement_reconciliation
+task_type: multimodal_reconciliation
+required_apis: [gmail, openweather, google-calendar]
+distractor_apis: [outlook, discord]
