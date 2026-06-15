@@ -1,0 +1,2 @@
+city_id,dt,temp,feels_like,temp_min,temp_max,pressure,humidity,weather_id,weather_main,weather_description,wind_speed,wind_deg,clouds,visibility
+3190344,1792526400,19.5,18.8,17.2,21.4,1021,66,801,Clouds,few clouds,4.5,225,20,10000
